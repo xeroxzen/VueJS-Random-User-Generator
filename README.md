@@ -1,1 +1,1 @@
-# VueJS-Random-User-Geneerator
+# VueJS-Random-User-Generator
